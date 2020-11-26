@@ -102,7 +102,7 @@ class _InputPageState extends State<InputPage> {
                         height = newValue.round();
                       });
                     },
-                    min: 120,
+                    min: 150,
                     max: 220,
                   )
                 ],
