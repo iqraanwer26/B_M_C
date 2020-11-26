@@ -103,7 +103,7 @@ class _InputPageState extends State<InputPage> {
                       });
                     },
                     min: 120,
-                    max: 200,
+                    max: 300,
                   )
                 ],
               ),
