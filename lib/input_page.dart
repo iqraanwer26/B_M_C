@@ -103,7 +103,7 @@ class _InputPageState extends State<InputPage> {
                       });
                     },
                     min: 120,
-                    max: 300,
+                    max: 220,
                   )
                 ],
               ),
@@ -138,7 +138,7 @@ class _InputPageState extends State<InputPage> {
                               },
                             ),
                             SizedBox(
-                              width: 10.0,
+                              width: 15.0,
                             ),
                             RoundIconButton(
                               icon: FontAwesomeIcons.minus,
