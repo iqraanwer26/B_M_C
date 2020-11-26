@@ -20,7 +20,7 @@ class _InputPageState extends State<InputPage> {
   Gender selectedGender;
   int height = 50;
   int weight = 60;
-  int age = 30;
+  int age = 20;
 
   @override
   Widget build(BuildContext context) {
@@ -94,7 +94,7 @@ class _InputPageState extends State<InputPage> {
                     ],
                   ),
                   Slider(
-                    activeColor: Colors.yellowAccent,
+                    activeColor: Colors.pinkAccent,
                     inactiveColor: Colors.lightGreenAccent,
                     value: height.toDouble(),
                     onChanged: (double newValue) {
