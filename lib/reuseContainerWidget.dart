@@ -15,7 +15,7 @@ class iconColumn extends StatelessWidget {
           size: 50.0,
         ),
         SizedBox(
-          height: 10.0,
+          height: 15.0,
         ),
         Text(
           label,
