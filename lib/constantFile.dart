@@ -30,11 +30,11 @@ const kResultTextStyle = TextStyle(
 );
 
 const kBMITextStyle = TextStyle(
-  fontSize: 50.0,
+  fontSize: 100.0,
   fontWeight: FontWeight.bold,
 );
 const kBodyTextStyle = TextStyle(
-  fontSize: 22.0,
+  fontSize: 20.0,
 );
 
 const kLargeButtonTextStyle = TextStyle(
