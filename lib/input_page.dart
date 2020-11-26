@@ -138,7 +138,7 @@ class _InputPageState extends State<InputPage> {
                               },
                             ),
                             SizedBox(
-                              width: 15.0,
+                              width: 10.0,
                             ),
                             RoundIconButton(
                               icon: FontAwesomeIcons.minus,
@@ -205,7 +205,7 @@ class _InputPageState extends State<InputPage> {
                   MaterialPageRoute(builder: (context) => ResultPage()));
             },
             child: Container(
-              margin: EdgeInsets.only(top: 10.0),
+              margin: EdgeInsets.only(top: 20.0),
               padding: EdgeInsets.only(bottom: 20.0),
               width: double.infinity,
               height: 70.0,
